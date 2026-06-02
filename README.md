@@ -1,35 +1,35 @@
 # Pokemon
 
-Proyecto frontend con Vite para consultar y visualizar informacion de Pokemon.
+A Vite frontend project to fetch and display Pokemon information.
 
-## URL de produccion
+## Production URL
 
 [https://pokemons-6su.pages.dev/](https://pokemons-6su.pages.dev/)
 
-## Requisitos
+## Requirements
 
-- Node.js 18+ (recomendado)
+- Node.js 18+ (recommended)
 - npm
 
-## Instalacion
+## Installation
 
 ```bash
 npm install
 ```
 
-## Desarrollo local
+## Local development
 
 ```bash
 npm run dev
 ```
 
-## Build de produccion
+## Production build
 
 ```bash
 npm run build
 ```
 
-## Preview local del build
+## Local preview of the build
 
 ```bash
 npm run preview
